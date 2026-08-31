@@ -55,15 +55,6 @@ Computer Scientist who loves to work with APIs, create real world applications, 
   <a href="mailto:mitchellmorris2004@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-### 📈 Contribution Graph
-
-<p align="center">
-  <img 
-    width="100%" 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=mmorris10&bg_color=00000000&color=4f46e5&line=4f46e5&point=c9d1d9&area=true&hide_border=true"
-    alt="GitHub Activity Graph"
-  />
-</p>
 
 ### 💭 Dev Quote
 
