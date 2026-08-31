@@ -12,7 +12,7 @@
 
 Computer Scientist who loves to work with APIs, create real world applications, and loves coffee.
 
-🔭 &nbsp;I'm currently working on **Application Progress Program with MySQL database**  
+🔭 &nbsp;I'm currently working on a **Local AI Agent**  
 🌱 &nbsp;I'm currently learning **Python, CALYPSO, TypeScript**  
 ⚡ &nbsp;Fun fact: **Created an adventure application for my senior project.**
 
